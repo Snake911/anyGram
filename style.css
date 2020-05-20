@@ -139,7 +139,6 @@ img:hover {
 
 .heart:hover {
     transform: scale(1.2);
-    background: rgba(255, 99, 71, .7);
     cursor: pointer;
 }
 
